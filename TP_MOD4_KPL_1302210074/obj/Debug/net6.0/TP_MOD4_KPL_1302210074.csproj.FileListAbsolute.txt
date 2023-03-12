@@ -1,0 +1,15 @@
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\bin\Debug\net6.0\TP_MOD4_KPL_1302210074.exe
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\bin\Debug\net6.0\TP_MOD4_KPL_1302210074.deps.json
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\bin\Debug\net6.0\TP_MOD4_KPL_1302210074.runtimeconfig.json
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\bin\Debug\net6.0\TP_MOD4_KPL_1302210074.dll
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\bin\Debug\net6.0\TP_MOD4_KPL_1302210074.pdb
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\obj\Debug\net6.0\TP_MOD4_KPL_1302210074.csproj.AssemblyReference.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\obj\Debug\net6.0\TP_MOD4_KPL_1302210074.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\obj\Debug\net6.0\TP_MOD4_KPL_1302210074.AssemblyInfoInputs.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\obj\Debug\net6.0\TP_MOD4_KPL_1302210074.AssemblyInfo.cs
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\obj\Debug\net6.0\TP_MOD4_KPL_1302210074.csproj.CoreCompileInputs.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\obj\Debug\net6.0\TP_MOD4_KPL_1302210074.dll
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\obj\Debug\net6.0\refint\TP_MOD4_KPL_1302210074.dll
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\obj\Debug\net6.0\TP_MOD4_KPL_1302210074.pdb
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\obj\Debug\net6.0\TP_MOD4_KPL_1302210074.genruntimeconfig.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD4_KPL_1302210074\TP_MOD4_KPL_1302210074\obj\Debug\net6.0\ref\TP_MOD4_KPL_1302210074.dll
